@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\PF.Server.props" />
-</Project>
