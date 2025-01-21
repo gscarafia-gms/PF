@@ -1,6 +1,4 @@
-.vs/PF/FileContentIndex/223a8f61-501f-4f9c-bc04-b187b9a430e8.vsidx
-.vs/PF/FileContentIndex/b6b7ad91-38be-49a4-bb94-52d59f987044.vsidx
-.vs/PF/config/applicationhost.config
-.vs/PF/v17/.suo
-.vs/PF/v17/DocumentLayout.backup.json
-.vs/PF/v17/DocumentLayout.json
+.vs/
+bin/
+obj/
+node-moudle/
