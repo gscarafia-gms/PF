@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "KK5vcUQ7BMKJMd3Ntolcfv5o/p7/euB0mgKfY4kaFUQ=",
+  "Source": "PF.Server",
+  "BasePath": "_content/PF.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\gscarafia\\Udemy ejercicios\\CursoGit\\pf.client\\pf.client.esproj",
+      "Version": 2,
+      "Source": "pf.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:52418",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\gscarafia\\Udemy ejercicios\\CursoGit\\PF.Server\\..\\pf.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
